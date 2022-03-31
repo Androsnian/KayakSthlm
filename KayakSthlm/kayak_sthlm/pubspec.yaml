@@ -1,0 +1,40 @@
+name: kayak_sthlm
+description: School project for Stockholm University.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^1.0.1
+  cloud_firestore: ^1.0.2
+  firebase_core: ^1.0.2
+  provider: ^5.0.0
+  cupertino_icons: ^1.0.2
+  flutter_material_pickers: ^2.1.1
+  google_maps_flutter: ^2.0.3
+  location: ^2.3.5
+  http: ^0.13.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/kayak1.png
+    - assets/bakgrund.png
+    - assets/arrow_final.png
+    - assets/weatherType.json
+  fonts:
+    - family: FugazOne
+      fonts:
+        - asset: fonts/FugazOne-Regular.ttf
+    - family: HammersmithOne
+      fonts:
+        - asset: fonts/HammersmithOne-Regular.ttf
