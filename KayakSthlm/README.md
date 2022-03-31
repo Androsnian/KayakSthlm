@@ -1,6 +1,6 @@
 # KayakSthlm
-School project for Stockholm University  
-Grade: A, highest points possible to achieve.
+School project from Stockholm University - Course: Projektarbete med programvaruteknik (Project software development).  
+Grade: A, highest grade possible.
 
 ## Screenshots
 ###### Prototype:
